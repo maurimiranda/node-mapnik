@@ -26,7 +26,7 @@ if [ ! -f ./mason_packages/.link/bin/mapnik-config ]; then
     install pixman 0.34.0
     install cairo 1.14.8
     install webp 0.6.0
-    install libgdal 2.1.3
+    install libgdal 2.2.3
     install boost 1.66.0
     install boost_libsystem 1.66.0
     install boost_libfilesystem 1.66.0
