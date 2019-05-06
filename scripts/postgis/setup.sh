@@ -3,7 +3,7 @@
 set -eu
 set -o pipefail
 
-GDAL_VERSION="2.1.3"
+GDAL_VERSION="2.2.3"
 POSTGIS_VERSION="2.3.2-1"
 
 # do once: install stuff
